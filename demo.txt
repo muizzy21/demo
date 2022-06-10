@@ -1,6 +1,1 @@
-Change
-<<<<<<< HEAD
-aa
-=======
-added this line
->>>>>>> 1cd60b006ad5a27c553d0e5d924dc24a2d22a0c9
+refresh
